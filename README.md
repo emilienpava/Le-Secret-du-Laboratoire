@@ -1,4 +1,4 @@
-# Le-Secret-du-LaboratoireLe Secret du Laboratoire 404
+# Le Secret du Laboratoire 404
 
 API REST développée avec Python, FastAPI et Pydantic pour gérer le backend d'un jeu d'escape game.
 
